@@ -1,0 +1,17 @@
+{
+  "name": "ge-iru-gyro",
+  "version": "1.0.0",
+  "description": "Interfaces with GE 9181 Series",
+  "main": "ge-iru-gyro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ins",
+    "ge",
+    "inu",
+    "iru"
+  ],
+  "author": "Steven Troxel",
+  "license": "ISC"
+}
